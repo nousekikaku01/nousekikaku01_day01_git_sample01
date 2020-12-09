@@ -1,1 +1,3 @@
 # nousekikaku01_day01_git_sample01
+
+はじめてのCommit
